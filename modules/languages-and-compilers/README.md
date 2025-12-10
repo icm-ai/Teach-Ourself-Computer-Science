@@ -1,5 +1,7 @@
 # Languages and Compilers
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how programming languages work and how compilers translate high-level code to machine instructions. Covers language design, parsing, semantic analysis, optimization, and code generation. Learning compilers provides deeper insight into language features and enables writing better code.
 

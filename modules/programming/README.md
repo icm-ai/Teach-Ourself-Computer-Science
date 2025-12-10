@@ -1,5 +1,7 @@
 # Programming
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Foundational programming concepts and computational thinking. This module covers essential programming paradigms, recursion, abstraction, and program design principles that form the basis for all computer science study.
 

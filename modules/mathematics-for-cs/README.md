@@ -1,5 +1,7 @@
 # Mathematics for Computer Science
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Discrete mathematics and mathematical foundations for computer science. Covers logic, combinatorics, probability, set theory, graph theory, and number theory as they apply to computing. Provides the mathematical maturity needed for rigorous algorithm analysis and theoretical computer science.
 

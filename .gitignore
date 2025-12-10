@@ -4,3 +4,7 @@
 **/.DS_Store
 
 .vscode/
+
+# Ignore PDF books (often large files)
+# Add links to resources instead
+resources/books/**/*.pdf

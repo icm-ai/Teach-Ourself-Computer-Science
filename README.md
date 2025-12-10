@@ -6,6 +6,8 @@
 -->
 # Teach Yourself Computer Science
 
+English | [简体中文](README_CN.md)
+
 Personal learning repository for systematically studying computer science fundamentals based on the [Teach Yourself Computer Science](https://teachyourselfcs.com) curriculum.
 
 ## Overview

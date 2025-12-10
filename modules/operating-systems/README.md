@@ -1,5 +1,7 @@
 # Operating Systems
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how operating systems manage hardware resources, provide abstractions for programs, and enable concurrent execution. Covers processes, threads, scheduling, memory management, file systems, and system-level programming.
 

@@ -1,5 +1,7 @@
 # Computer Architecture
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how computers work at the hardware level, from logic gates to processor design. This module covers computer systems, memory hierarchy, processor architecture, and the relationship between hardware and software.
 

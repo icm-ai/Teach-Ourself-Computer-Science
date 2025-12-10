@@ -1,5 +1,7 @@
 # Databases
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how database systems store, retrieve, and manage data efficiently. Covers relational database theory, SQL, transaction processing, query optimization, database internals, and data modeling principles.
 

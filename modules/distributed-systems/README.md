@@ -1,5 +1,7 @@
 # Distributed Systems
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how to design and reason about systems that run across multiple machines. Covers consistency, fault tolerance, replication, distributed consensus, and the trade-offs inherent in distributed system design. Essential knowledge for modern cloud-based and scalable applications.
 

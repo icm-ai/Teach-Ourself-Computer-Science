@@ -1,5 +1,7 @@
 # Computer Networking
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Understanding how networked systems communicate, from physical transmission to application protocols. Covers the Internet architecture, TCP/IP, routing, network security, and protocols that enable modern distributed applications.
 

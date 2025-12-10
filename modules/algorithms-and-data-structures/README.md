@@ -1,5 +1,7 @@
 # Algorithms and Data Structures
 
+[English](README.md) | [简体中文](README_CN.md)
+
 ## Overview
 Essential algorithms and data structures that form the foundation of efficient problem-solving in computer science. Covers complexity analysis, sorting, searching, graph algorithms, dynamic programming, and fundamental data structures.
 
