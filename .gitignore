@@ -3,8 +3,79 @@
 .DS_Store
 **/.DS_Store
 
+# IDE specific files
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
 
+# System files
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.old
+*.orig
+
+# Large binary files
 # Ignore PDF books (often large files)
-# Add links to resources instead
 resources/books/**/*.pdf
+
+# Binary file formats
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.exe
+*.dmg
+*.iso
+
+# Ignore download files
+*.crdownload
+*.download
+
+# Node.js (if used later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if used later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# C/C++ compiled files
+*.o
+*.out
+*.a
+*.so
+*.dylib
+*.dll
+a.out
+*.dSYM/
+core
+*.core
+**/output/
+*.obj
+*.elf
